@@ -29,6 +29,7 @@
   <p>Hello Japan</p>  
   <p>Hello kyusyu</p>
   <p>Hello kagoshima</p>
+  <p>Hello kagoshima city</p>
 </body>
 
 </html>
